@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeeshanzt
-- 👀 I’m interested in Embedded Sytems and Machine Learning. I have keen interest in IoT and Web Development as well.
-- 🌱 I’m currently learning using Esp32 for IoT purposes. Moreover, working on creating a Web App and Management System for inventory management.
+- 👀 I’m interested in Embedded Sytems and Machine Learning.
+- 🌱 I’m currently learning using Esp32 for IoT purposes and communication of data ibtained therough camera to cloud platform and web. Moreover, working on creating a Web App and Management System for inventory management.
 - 💞️ I’m looking to collaborate on my Final Year Project which is inventory management system using drones for inventory management.
 
 
