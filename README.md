@@ -1,8 +1,10 @@
-Hi, I'm @Zeeshanzt! I'm a passionate individual with a strong interest in Embedded Systems and Machine Learning. Currently, I'm exploring the use of Esp32 for IoT purposes and leveraging its capabilities to communicate data obtained through a camera to a cloud platform and web. I'm also working on creating a Web App and Management System for inventory management, showcasing my skills in full-stack development.
+Hey there, I'm Zeeshan Hussain - a Machine Learning Engineer based in Rawalpindi, Pakistan. My passion lies in the fields of Embedded Systems and Machine Learning, and I'm constantly learning and exploring new technologies to push the boundaries of what's possible.
 
-I'm excited to take on new challenges and expand my knowledge in these fields. As a final year student, I'm focused on my project, which involves developing an inventory management system using drones. With this project, I aim to utilize my skills and knowledge in Embedded Systems and Machine Learning to create innovative solutions for modern-day inventory management.
+In my free time, I love working on personal projects that allow me to apply my skills and explore new ideas. One of my recent projects involved building an Autonomous UAV for Warehouse Inventory Management. I implemented ORB SLAM for autonomous movement, equipped the drone with a camera capable of scanning QR and bar codes, and used Django to build a robust web application. I've also developed a Drowsy Driver Detection system that uses facial gestures to reduce the risk of road accidents caused by driver drowsiness.
 
-If you're interested in collaborating on this project or have any ideas to share, I'd be more than happy to hear from you! Check out my Github profile for more information on my skills and projects.
+I have a strong foundation in Python, Numpy, Pandas, Matplotlib, Keras, Scikit-Learn, Arduino, Raspberry Pi, ROS, Gazebo, OpenCV, FreeRTOS, Verilog, FPGA, MATLAB, Deep Learning, Artificial Intelligence (AI), Computer Vision, Point Clouds, Video Analytics and Visual SLAM.
+
+If you're interested in learning more about my work or collaborating on a project, feel free to check out my Github profile or drop me an email at zhussain.bee19seecs@seecs.edu.pk. Let's create something innovative and make a positive impact on the world!
 
 <!---
 Zeeshanzt/Zeeshanzt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
